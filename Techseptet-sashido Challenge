@@ -1,0 +1,7 @@
+let configuration = ParseClientConfiguration {
+  $0.applicationId = "7wjtKfRa4vwrKgAqsUgpsERSCFUNYRsDSRgQ3aTQ"
+  $0.clientKey = "WGtOHkFgRm9HbAAw7mGeTvV2YSRFUQeiCUOR4aQU"
+  $0.server = "https://pg-app-5oev38ued2vtc1rgkd8zxq40vidpvr.scalabl.cloud/1/"
+}
+Parse.initializeWithConfiguration(configuration)
+dash = https://dashboard.sashido.io/products/apps/9lu593LHQO-techseptet/push/new
